@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T11:33:37Z" name="Suite" finished-at="2021-11-21T11:36:58Z" duration-ms="200949">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-11-21T11:33:37Z" name="Test" finished-at="2021-11-21T11:36:58Z" duration-ms="200949">
+      <class name="mindtree.BDDBigSmall.runnerClass.TestRunnerClass">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:03:37Z" name="setUpClass" finished-at="2021-11-21T17:03:37Z" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:03:37Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:03:56Z" duration-ms="19216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Check the COD of product by entering pincode.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:04:01Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:04:34Z" duration-ms="33169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Search the product and Buy the product.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:04:35Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:04:51Z" duration-ms="16266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Check the Functionality of Logo.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:04:56Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:05:10Z" duration-ms="14163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Enquiry for Corporate gifts.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:05:11Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:05:21Z" duration-ms="10092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buying Gift Card.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:05:25Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:05:40Z" duration-ms="14552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Search the product and Buy the product.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:05:45Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:05:58Z" duration-ms="13314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Search the product and Increment the Quantity.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:06:02Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:06:15Z" duration-ms="13013" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Search the product and validating the Product Name.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:06:20Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:06:33Z" duration-ms="12821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Signin into website.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:06:34Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-11-21T17:06:53Z" duration-ms="19812" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Search the product and Wishlist the product.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:mindtree.BDDBigSmall.runnerClass.TestRunnerClass@41bdee2]" started-at="2021-11-21T17:06:58Z" name="tearDownClass" finished-at="2021-11-21T17:06:58Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- mindtree.BDDBigSmall.runnerClass.TestRunnerClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

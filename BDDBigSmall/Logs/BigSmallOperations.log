@@ -1,0 +1,1049 @@
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:08 INFO  Opening the browser
+2021-11-20 21:21:09 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:24:22 INFO  Opening the browser
+2021-11-20 21:25:12 INFO  Opening the browser
+2021-11-20 21:25:15 INFO  Browser opened
+2021-11-20 21:25:15 INFO  Entering URL in search bar of browser
+2021-11-20 21:25:22 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:25:22 INFO  User Landed to Landing page
+2021-11-20 21:25:22 INFO  Select the product from search results to buy
+2021-11-20 21:25:25 INFO  Search product by entering product related name in search bar
+2021-11-20 21:25:25 INFO  Open the selected product
+2021-11-20 21:25:29 INFO  Add the product to cart
+2021-11-20 21:25:30 INFO  Go to checkout after adding to cart
+2021-11-20 21:25:31 INFO  Cut the popup of Whatsapp
+2021-11-20 21:25:32 INFO  Fill the delivery details with respective fields
+2021-11-20 21:25:42 INFO  Delivery details filled
+2021-11-20 21:25:42 INFO  Click on continue shipping
+2021-11-20 21:25:47 INFO  buying process completed
+2021-11-20 21:25:47 INFO  Closing the browser...
+2021-11-20 21:25:47 INFO  Browser Closed.
+2021-11-20 21:25:48 INFO  Opening the browser
+2021-11-20 21:25:52 INFO  Browser opened
+2021-11-20 21:25:52 INFO  Entering URL in search bar of browser
+2021-11-20 21:25:58 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:25:58 INFO  User Landed to Landing page
+2021-11-20 21:25:58 INFO  Click New from Navigation bar
+2021-11-20 21:26:03 INFO  Select the product
+2021-11-20 21:26:07 INFO  On navigated Product details page
+2021-11-20 21:26:07 INFO  Input the pincode for selected product
+2021-11-20 21:26:07 INFO  Check the COD available for inputed pin code
+2021-11-20 21:26:07 INFO  Check the COD available Message
+2021-11-20 21:26:07 ERROR COD Unavailable for inputed pin code
+2021-11-20 21:26:07 INFO  Closing the browser...
+2021-11-20 21:26:07 INFO  Browser Closed.
+2021-11-20 21:26:07 INFO  Opening the browser
+2021-11-20 21:26:11 INFO  Browser opened
+2021-11-20 21:26:11 INFO  Entering URL in search bar of browser
+2021-11-20 21:26:17 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:26:17 INFO  User Landed to Landing page
+2021-11-20 21:26:17 INFO  Click New from Navigation bar
+2021-11-20 21:26:21 INFO  Select the product
+2021-11-20 21:26:25 INFO  On navigated Product details page
+2021-11-20 21:26:25 INFO  Input the pincode for selected product
+2021-11-20 21:26:25 INFO  Check the COD available for inputed pin code
+2021-11-20 21:26:25 INFO  Check the COD available Message
+2021-11-20 21:26:25 ERROR COD Unavailable for inputed pin code
+2021-11-20 21:26:25 INFO  Closing the browser...
+2021-11-20 21:26:25 INFO  Browser Closed.
+2021-11-20 21:26:27 INFO  Opening the browser
+2021-11-20 21:26:30 INFO  Browser opened
+2021-11-20 21:26:30 INFO  Entering URL in search bar of browser
+2021-11-20 21:26:37 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:26:37 INFO  User Landed to Landing page
+2021-11-20 21:26:37 INFO  Click on /'All of it'/ from the navigation bar
+2021-11-20 21:26:41 INFO  Select the Product from Search results
+2021-11-20 21:26:45 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-20 21:26:45 INFO  Validating weather logo is visible or not
+2021-11-20 21:26:45 INFO  Logo is Available on current page
+2021-11-20 21:26:45 INFO  Click on Logo
+2021-11-20 21:26:49 INFO  User navigated back to Homepage from Product Details page
+2021-11-20 21:26:49 INFO  Closing the browser...
+2021-11-20 21:26:49 INFO  Browser Closed.
+2021-11-20 21:26:51 INFO  Opening the browser
+2021-11-20 21:26:55 INFO  Browser opened
+2021-11-20 21:26:55 INFO  Entering URL in search bar of browser
+2021-11-20 21:27:01 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:27:01 INFO  User Landed to Landing page
+2021-11-20 21:27:01 INFO  Select corporate gifts from navigation bar
+2021-11-20 21:27:05 INFO  For will Open for inquiry after navigation to Corporate Gifts
+2021-11-20 21:27:05 INFO  Fill the form with respective fields
+2021-11-20 21:27:05 INFO  Input Name
+2021-11-20 21:27:06 INFO  Input email-id
+2021-11-20 21:27:06 INFO  Input Phone number
+2021-11-20 21:27:06 INFO  Input Message for inquiry
+2021-11-20 21:27:06 INFO  Verify the details and Hit Submit button to put inquiry
+2021-11-20 21:27:10 INFO  Inquiry submitted will reach you soon...!
+2021-11-20 21:27:10 INFO  Closing the browser...
+2021-11-20 21:27:10 INFO  Browser Closed.
+2021-11-20 21:27:12 INFO  Opening the browser
+2021-11-20 21:27:15 INFO  Browser opened
+2021-11-20 21:27:15 INFO  Entering URL in search bar of browser
+2021-11-20 21:27:21 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:27:21 INFO  User Landed to Landing page
+2021-11-20 21:27:21 INFO  Select the gift from navigation bar.
+2021-11-20 21:27:25 INFO  Popup will open for the gift card
+2021-11-20 21:27:25 INFO  Select the amount for gift card
+2021-11-20 21:27:25 INFO  Adding gift card to cart
+2021-11-20 21:27:25 INFO  Closing the browser...
+2021-11-20 21:27:25 INFO  Browser Closed.
+2021-11-20 21:27:27 INFO  Opening the browser
+2021-11-20 21:27:29 INFO  Browser opened
+2021-11-20 21:27:29 INFO  Entering URL in search bar of browser
+2021-11-20 21:27:35 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:27:35 INFO  User Landed to Landing page
+2021-11-20 21:27:35 INFO  Hover mouse on Birthday gifts
+2021-11-20 21:27:35 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-20 21:27:35 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-20 21:27:40 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-20 21:27:40 INFO  Select the Gifting product
+2021-11-20 21:27:44 INFO  Select variety of product
+2021-11-20 21:27:45 INFO  Add selected product to cart
+2021-11-20 21:27:45 INFO  Closing the browser...
+2021-11-20 21:27:45 INFO  Browser Closed.
+2021-11-20 21:27:46 INFO  Opening the browser
+2021-11-20 21:27:49 INFO  Browser opened
+2021-11-20 21:27:49 INFO  Entering URL in search bar of browser
+2021-11-20 21:27:56 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:27:56 INFO  User Landed to Landing page
+2021-11-20 21:27:56 INFO  Select Santa gift From navigation bar
+2021-11-20 21:28:00 INFO  Result for Santa gift will be displayed
+2021-11-20 21:28:04 INFO  Select the product
+2021-11-20 21:28:04 INFO  Increment the quantity of product
+2021-11-20 21:28:04 INFO  Quantity incremented from one to two
+2021-11-20 21:28:04 INFO  Add this product to cart
+2021-11-20 21:28:04 INFO  Product added to cart
+2021-11-20 21:28:04 INFO  Closing the browser...
+2021-11-20 21:28:04 INFO  Browser Closed.
+2021-11-20 21:28:06 INFO  Opening the browser
+2021-11-20 21:28:09 INFO  Browser opened
+2021-11-20 21:28:09 INFO  Entering URL in search bar of browser
+2021-11-20 21:28:15 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:28:15 INFO  User Landed to Landing page
+2021-11-20 21:28:15 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-20 21:28:15 INFO  Inputting /'pocket wa'/ and getting keyword from dropdown suggestions
+2021-11-20 21:28:18 INFO  Navigated to search result page
+2021-11-20 21:28:18 INFO  Selecting the product from search result page
+2021-11-20 21:28:23 INFO  Product Results are displayed according to inputed keys
+2021-11-20 21:28:23 INFO  Product Selected and Navigated to Product details page
+2021-11-20 21:28:23 INFO  Product name matched
+2021-11-20 21:28:23 INFO  Closing the browser...
+2021-11-20 21:28:23 INFO  Browser Closed.
+2021-11-20 21:28:24 INFO  Opening the browser
+2021-11-20 21:28:27 INFO  Browser opened
+2021-11-20 21:28:27 INFO  Entering URL in search bar of browser
+2021-11-20 21:28:33 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:28:33 INFO  User Landed to Landing page
+2021-11-20 21:28:36 INFO  Opening Signin Form
+2021-11-20 21:28:36 INFO  Input email in username field
+2021-11-20 21:28:37 INFO  Input password in password field
+2021-11-20 21:28:37 INFO  Signing Inn with credentials
+2021-11-20 21:28:41 INFO  SignedIn Sucessfull!!
+2021-11-20 21:28:41 INFO  Closing the browser...
+2021-11-20 21:28:41 INFO  Browser Closed.
+2021-11-20 21:28:42 INFO  Opening the browser
+2021-11-20 21:28:44 INFO  Browser opened
+2021-11-20 21:28:44 INFO  Entering URL in search bar of browser
+2021-11-20 21:28:51 INFO  Loading Website of Bigsmall.in
+2021-11-20 21:28:51 INFO  User Landed to Landing page
+2021-11-20 21:28:51 INFO  Click on Top50 from navigation bar
+2021-11-20 21:28:55 INFO  Choose the product from the result
+2021-11-20 21:29:01 INFO  Add product to wishlist
+2021-11-20 21:29:02 INFO  Product wishlisted
+2021-11-20 21:29:02 INFO  Click on wishlist icon from header section
+2021-11-20 21:29:06 INFO  Continue wishlist
+2021-11-20 21:29:06 INFO  Move wishlisted product to cart
+2021-11-20 21:29:07 INFO  Product wishlisted and moved to cart
+2021-11-20 21:29:07 INFO  Closing the browser...
+2021-11-20 21:29:07 INFO  Browser Closed.
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:18:38 INFO  Opening the browser
+2021-11-20 23:21:36 INFO  Opening the browser
+2021-11-20 23:21:45 INFO  Browser opened
+2021-11-20 23:21:45 INFO  Entering URL in search bar of browser
+2021-11-20 23:21:54 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:21:54 INFO  User Landed to Landing page
+2021-11-20 23:21:54 INFO  Select the product from search results to buy
+2021-11-20 23:21:58 INFO  Search product by entering product related name in search bar
+2021-11-20 23:21:58 INFO  Open the selected product
+2021-11-20 23:22:02 INFO  Add the product to cart
+2021-11-20 23:22:03 INFO  Go to checkout after adding to cart
+2021-11-20 23:22:04 INFO  Cut the popup of Whatsapp
+2021-11-20 23:22:05 INFO  Fill the delivery details with respective fields
+2021-11-20 23:22:16 INFO  Delivery details filled
+2021-11-20 23:22:16 INFO  Click on continue shipping
+2021-11-20 23:22:21 INFO  buying process completed
+2021-11-20 23:22:21 INFO  Closing the browser...
+2021-11-20 23:22:21 INFO  Browser Closed.
+2021-11-20 23:22:23 INFO  Opening the browser
+2021-11-20 23:22:27 INFO  Browser opened
+2021-11-20 23:22:27 INFO  Entering URL in search bar of browser
+2021-11-20 23:22:33 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:22:33 INFO  User Landed to Landing page
+2021-11-20 23:22:33 INFO  Click New from Navigation bar
+2021-11-20 23:22:38 INFO  Select the product
+2021-11-20 23:22:42 INFO  On navigated Product details page
+2021-11-20 23:22:42 INFO  Input the pincode for selected product
+2021-11-20 23:22:42 INFO  Check the COD available for inputed pin code
+2021-11-20 23:22:42 INFO  Check the COD available Message
+2021-11-20 23:22:42 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:22:42 INFO  Closing the browser...
+2021-11-20 23:22:42 INFO  Browser Closed.
+2021-11-20 23:22:43 INFO  Opening the browser
+2021-11-20 23:22:46 INFO  Browser opened
+2021-11-20 23:22:46 INFO  Entering URL in search bar of browser
+2021-11-20 23:22:53 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:22:53 INFO  User Landed to Landing page
+2021-11-20 23:22:53 INFO  Click New from Navigation bar
+2021-11-20 23:22:57 INFO  Select the product
+2021-11-20 23:23:01 INFO  On navigated Product details page
+2021-11-20 23:23:01 INFO  Input the pincode for selected product
+2021-11-20 23:23:01 INFO  Check the COD available for inputed pin code
+2021-11-20 23:23:02 INFO  Check the COD available Message
+2021-11-20 23:23:02 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:23:02 INFO  Closing the browser...
+2021-11-20 23:23:02 INFO  Browser Closed.
+2021-11-20 23:23:03 INFO  Opening the browser
+2021-11-20 23:23:07 INFO  Browser opened
+2021-11-20 23:23:07 INFO  Entering URL in search bar of browser
+2021-11-20 23:23:14 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:23:14 INFO  User Landed to Landing page
+2021-11-20 23:23:14 INFO  Click on /'All of it'/ from the navigation bar
+2021-11-20 23:23:19 INFO  Select the Product from Search results
+2021-11-20 23:23:23 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-20 23:23:23 INFO  Validating weather logo is visible or not
+2021-11-20 23:23:23 INFO  Logo is Available on current page
+2021-11-20 23:23:23 INFO  Click on Logo
+2021-11-20 23:23:27 INFO  User navigated back to Homepage from Product Details page
+2021-11-20 23:23:27 INFO  Closing the browser...
+2021-11-20 23:23:27 INFO  Browser Closed.
+2021-11-20 23:23:29 INFO  Opening the browser
+2021-11-20 23:23:32 INFO  Browser opened
+2021-11-20 23:23:32 INFO  Entering URL in search bar of browser
+2021-11-20 23:23:39 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:23:39 INFO  User Landed to Landing page
+2021-11-20 23:23:39 INFO  Select corporate gifts from navigation bar
+2021-11-20 23:23:44 INFO  For will Open for inquiry after navigation to Corporate Gifts
+2021-11-20 23:23:44 INFO  Fill the form with respective fields
+2021-11-20 23:23:44 INFO  Input Name
+2021-11-20 23:23:44 INFO  Input email-id
+2021-11-20 23:23:45 INFO  Input Phone number
+2021-11-20 23:23:45 INFO  Input Message for inquiry
+2021-11-20 23:23:45 INFO  Verify the details and Hit Submit button to put inquiry
+2021-11-20 23:23:50 INFO  Inquiry submitted will reach you soon...!
+2021-11-20 23:23:50 INFO  Closing the browser...
+2021-11-20 23:23:50 INFO  Browser Closed.
+2021-11-20 23:23:51 INFO  Opening the browser
+2021-11-20 23:23:54 INFO  Browser opened
+2021-11-20 23:23:54 INFO  Entering URL in search bar of browser
+2021-11-20 23:24:01 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:24:01 INFO  User Landed to Landing page
+2021-11-20 23:24:01 INFO  Select the gift from navigation bar.
+2021-11-20 23:24:06 INFO  Popup will open for the gift card
+2021-11-20 23:24:06 INFO  Select the amount for gift card
+2021-11-20 23:24:06 INFO  Adding gift card to cart
+2021-11-20 23:24:06 INFO  Closing the browser...
+2021-11-20 23:24:06 INFO  Browser Closed.
+2021-11-20 23:24:11 INFO  Opening the browser
+2021-11-20 23:24:15 INFO  Browser opened
+2021-11-20 23:24:15 INFO  Entering URL in search bar of browser
+2021-11-20 23:24:22 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:24:22 INFO  User Landed to Landing page
+2021-11-20 23:24:22 INFO  Hover mouse on Birthday gifts
+2021-11-20 23:24:22 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-20 23:24:22 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-20 23:24:27 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-20 23:24:27 INFO  Select the Gifting product
+2021-11-20 23:24:32 INFO  Select variety of product
+2021-11-20 23:24:32 INFO  Add selected product to cart
+2021-11-20 23:24:33 INFO  Closing the browser...
+2021-11-20 23:24:33 INFO  Browser Closed.
+2021-11-20 23:24:35 INFO  Opening the browser
+2021-11-20 23:24:38 INFO  Browser opened
+2021-11-20 23:24:38 INFO  Entering URL in search bar of browser
+2021-11-20 23:24:45 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:24:45 INFO  User Landed to Landing page
+2021-11-20 23:24:45 INFO  Select Santa gift From navigation bar
+2021-11-20 23:24:49 INFO  Result for Santa gift will be displayed
+2021-11-20 23:24:53 INFO  Select the product
+2021-11-20 23:24:53 INFO  Increment the quantity of product
+2021-11-20 23:24:54 INFO  Quantity incremented from one to two
+2021-11-20 23:24:54 INFO  Add this product to cart
+2021-11-20 23:24:54 INFO  Product added to cart
+2021-11-20 23:24:54 INFO  Closing the browser...
+2021-11-20 23:24:54 INFO  Browser Closed.
+2021-11-20 23:24:55 INFO  Opening the browser
+2021-11-20 23:24:59 INFO  Browser opened
+2021-11-20 23:24:59 INFO  Entering URL in search bar of browser
+2021-11-20 23:25:06 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:25:06 INFO  User Landed to Landing page
+2021-11-20 23:25:06 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-20 23:25:06 INFO  Inputting /'pocket wa'/ and getting keyword from dropdown suggestions
+2021-11-20 23:25:10 INFO  Navigated to search result page
+2021-11-20 23:25:10 INFO  Selecting the product from search result page
+2021-11-20 23:25:14 INFO  Product Results are displayed according to inputed keys
+2021-11-20 23:25:14 INFO  Product Selected and Navigated to Product details page
+2021-11-20 23:25:14 INFO  Product name matched
+2021-11-20 23:25:14 INFO  Closing the browser...
+2021-11-20 23:25:14 INFO  Browser Closed.
+2021-11-20 23:25:16 INFO  Opening the browser
+2021-11-20 23:25:20 INFO  Browser opened
+2021-11-20 23:25:20 INFO  Entering URL in search bar of browser
+2021-11-20 23:25:26 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:25:26 INFO  User Landed to Landing page
+2021-11-20 23:25:29 INFO  Opening Signin Form
+2021-11-20 23:25:29 INFO  Input email in username field
+2021-11-20 23:25:30 INFO  Input password in password field
+2021-11-20 23:25:30 INFO  Signing Inn with credentials
+2021-11-20 23:25:34 INFO  SignedIn Sucessfull!!
+2021-11-20 23:25:34 INFO  Closing the browser...
+2021-11-20 23:25:34 INFO  Browser Closed.
+2021-11-20 23:25:35 INFO  Opening the browser
+2021-11-20 23:25:38 INFO  Browser opened
+2021-11-20 23:25:38 INFO  Entering URL in search bar of browser
+2021-11-20 23:25:45 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:25:45 INFO  User Landed to Landing page
+2021-11-20 23:25:45 INFO  Click on Top50 from navigation bar
+2021-11-20 23:25:50 INFO  Choose the product from the result
+2021-11-20 23:25:56 INFO  Add product to wishlist
+2021-11-20 23:25:57 INFO  Product wishlisted
+2021-11-20 23:25:57 INFO  Click on wishlist icon from header section
+2021-11-20 23:26:01 INFO  Continue wishlist
+2021-11-20 23:26:02 INFO  Move wishlisted product to cart
+2021-11-20 23:26:02 INFO  Product wishlisted and moved to cart
+2021-11-20 23:26:02 INFO  Closing the browser...
+2021-11-20 23:26:02 INFO  Browser Closed.
+2021-11-20 23:26:28 INFO  Opening the browser
+2021-11-20 23:26:31 INFO  Browser opened
+2021-11-20 23:26:31 INFO  Entering URL in search bar of browser
+2021-11-20 23:26:38 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:26:38 INFO  User Landed to Landing page
+2021-11-20 23:26:38 INFO  Select the product from search results to buy
+2021-11-20 23:26:42 INFO  Search product by entering product related name in search bar
+2021-11-20 23:26:42 INFO  Open the selected product
+2021-11-20 23:26:46 INFO  Add the product to cart
+2021-11-20 23:26:47 INFO  Go to checkout after adding to cart
+2021-11-20 23:26:48 INFO  Cut the popup of Whatsapp
+2021-11-20 23:26:49 INFO  Fill the delivery details with respective fields
+2021-11-20 23:27:08 INFO  Delivery details filled
+2021-11-20 23:27:08 INFO  Click on continue shipping
+2021-11-20 23:27:18 INFO  buying process completed
+2021-11-20 23:27:18 INFO  Closing the browser...
+2021-11-20 23:27:18 INFO  Browser Closed.
+2021-11-20 23:27:20 INFO  Opening the browser
+2021-11-20 23:27:23 INFO  Browser opened
+2021-11-20 23:27:23 INFO  Entering URL in search bar of browser
+2021-11-20 23:27:30 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:27:30 INFO  User Landed to Landing page
+2021-11-20 23:27:30 INFO  Click New from Navigation bar
+2021-11-20 23:27:35 INFO  Select the product
+2021-11-20 23:27:39 INFO  On navigated Product details page
+2021-11-20 23:27:39 INFO  Input the pincode for selected product
+2021-11-20 23:27:39 INFO  Check the COD available for inputed pin code
+2021-11-20 23:27:40 INFO  Check the COD available Message
+2021-11-20 23:27:40 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:27:40 INFO  Closing the browser...
+2021-11-20 23:27:40 INFO  Browser Closed.
+2021-11-20 23:27:40 INFO  Opening the browser
+2021-11-20 23:27:43 INFO  Browser opened
+2021-11-20 23:27:43 INFO  Entering URL in search bar of browser
+2021-11-20 23:27:50 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:27:50 INFO  User Landed to Landing page
+2021-11-20 23:27:50 INFO  Click New from Navigation bar
+2021-11-20 23:27:54 INFO  Select the product
+2021-11-20 23:27:58 INFO  On navigated Product details page
+2021-11-20 23:27:58 INFO  Input the pincode for selected product
+2021-11-20 23:27:59 INFO  Check the COD available for inputed pin code
+2021-11-20 23:27:59 INFO  Check the COD available Message
+2021-11-20 23:27:59 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:27:59 INFO  Closing the browser...
+2021-11-20 23:27:59 INFO  Browser Closed.
+2021-11-20 23:28:01 INFO  Opening the browser
+2021-11-20 23:28:05 INFO  Browser opened
+2021-11-20 23:28:05 INFO  Entering URL in search bar of browser
+2021-11-20 23:28:12 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:28:12 INFO  User Landed to Landing page
+2021-11-20 23:28:12 INFO  Click on /'All of it'/ from the navigation bar
+2021-11-20 23:28:17 INFO  Select the Product from Search results
+2021-11-20 23:28:21 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-20 23:28:21 INFO  Validating weather logo is visible or not
+2021-11-20 23:28:22 INFO  Logo is Available on current page
+2021-11-20 23:28:22 INFO  Click on Logo
+2021-11-20 23:28:25 INFO  User navigated back to Homepage from Product Details page
+2021-11-20 23:28:25 INFO  Closing the browser...
+2021-11-20 23:28:25 INFO  Browser Closed.
+2021-11-20 23:28:27 INFO  Opening the browser
+2021-11-20 23:28:31 INFO  Browser opened
+2021-11-20 23:28:31 INFO  Entering URL in search bar of browser
+2021-11-20 23:28:38 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:28:38 INFO  User Landed to Landing page
+2021-11-20 23:28:38 INFO  Select corporate gifts from navigation bar
+2021-11-20 23:28:43 INFO  For will Open for inquiry after navigation to Corporate Gifts
+2021-11-20 23:28:43 INFO  Fill the form with respective fields
+2021-11-20 23:28:43 INFO  Input Name
+2021-11-20 23:28:44 INFO  Input email-id
+2021-11-20 23:28:44 INFO  Input Phone number
+2021-11-20 23:28:44 INFO  Input Message for inquiry
+2021-11-20 23:28:44 INFO  Verify the details and Hit Submit button to put inquiry
+2021-11-20 23:28:48 INFO  Inquiry submitted will reach you soon...!
+2021-11-20 23:28:48 INFO  Closing the browser...
+2021-11-20 23:28:48 INFO  Browser Closed.
+2021-11-20 23:28:50 INFO  Opening the browser
+2021-11-20 23:28:54 INFO  Browser opened
+2021-11-20 23:28:54 INFO  Entering URL in search bar of browser
+2021-11-20 23:29:00 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:29:00 INFO  User Landed to Landing page
+2021-11-20 23:29:00 INFO  Select the gift from navigation bar.
+2021-11-20 23:29:04 INFO  Popup will open for the gift card
+2021-11-20 23:29:04 INFO  Select the amount for gift card
+2021-11-20 23:29:05 INFO  Adding gift card to cart
+2021-11-20 23:29:05 INFO  Closing the browser...
+2021-11-20 23:29:05 INFO  Browser Closed.
+2021-11-20 23:29:07 INFO  Opening the browser
+2021-11-20 23:29:10 INFO  Browser opened
+2021-11-20 23:29:10 INFO  Entering URL in search bar of browser
+2021-11-20 23:29:17 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:29:17 INFO  User Landed to Landing page
+2021-11-20 23:29:17 INFO  Hover mouse on Birthday gifts
+2021-11-20 23:29:17 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-20 23:29:17 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-20 23:29:22 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-20 23:29:22 INFO  Select the Gifting product
+2021-11-20 23:29:27 INFO  Select variety of product
+2021-11-20 23:29:27 INFO  Add selected product to cart
+2021-11-20 23:29:27 INFO  Closing the browser...
+2021-11-20 23:29:27 INFO  Browser Closed.
+2021-11-20 23:29:29 INFO  Opening the browser
+2021-11-20 23:29:33 INFO  Browser opened
+2021-11-20 23:29:33 INFO  Entering URL in search bar of browser
+2021-11-20 23:29:39 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:29:39 INFO  User Landed to Landing page
+2021-11-20 23:29:39 INFO  Select Santa gift From navigation bar
+2021-11-20 23:29:44 INFO  Result for Santa gift will be displayed
+2021-11-20 23:29:48 INFO  Select the product
+2021-11-20 23:29:48 INFO  Increment the quantity of product
+2021-11-20 23:29:48 INFO  Quantity incremented from one to two
+2021-11-20 23:29:48 INFO  Add this product to cart
+2021-11-20 23:29:49 INFO  Product added to cart
+2021-11-20 23:29:49 INFO  Closing the browser...
+2021-11-20 23:29:49 INFO  Browser Closed.
+2021-11-20 23:29:50 INFO  Opening the browser
+2021-11-20 23:29:54 INFO  Browser opened
+2021-11-20 23:29:54 INFO  Entering URL in search bar of browser
+2021-11-20 23:30:00 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:30:00 INFO  User Landed to Landing page
+2021-11-20 23:30:00 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-20 23:30:00 INFO  Inputting /'pocket wa'/ and getting keyword from dropdown suggestions
+2021-11-20 23:30:04 INFO  Navigated to search result page
+2021-11-20 23:30:04 INFO  Selecting the product from search result page
+2021-11-20 23:30:08 INFO  Product Results are displayed according to inputed keys
+2021-11-20 23:30:08 INFO  Product Selected and Navigated to Product details page
+2021-11-20 23:30:09 INFO  Product name matched
+2021-11-20 23:30:09 INFO  Closing the browser...
+2021-11-20 23:30:09 INFO  Browser Closed.
+2021-11-20 23:30:10 INFO  Opening the browser
+2021-11-20 23:30:13 INFO  Browser opened
+2021-11-20 23:30:13 INFO  Entering URL in search bar of browser
+2021-11-20 23:30:20 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:30:20 INFO  User Landed to Landing page
+2021-11-20 23:30:23 INFO  Opening Signin Form
+2021-11-20 23:30:23 INFO  Input email in username field
+2021-11-20 23:30:24 INFO  Input password in password field
+2021-11-20 23:30:24 INFO  Signing Inn with credentials
+2021-11-20 23:30:28 INFO  SignedIn Sucessfull!!
+2021-11-20 23:30:28 INFO  Closing the browser...
+2021-11-20 23:30:28 INFO  Browser Closed.
+2021-11-20 23:30:29 INFO  Opening the browser
+2021-11-20 23:30:32 INFO  Browser opened
+2021-11-20 23:30:32 INFO  Entering URL in search bar of browser
+2021-11-20 23:30:39 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:30:39 INFO  User Landed to Landing page
+2021-11-20 23:30:39 INFO  Click on Top50 from navigation bar
+2021-11-20 23:30:45 INFO  Choose the product from the result
+2021-11-20 23:30:51 INFO  Add product to wishlist
+2021-11-20 23:30:52 INFO  Product wishlisted
+2021-11-20 23:30:52 INFO  Click on wishlist icon from header section
+2021-11-20 23:30:56 INFO  Continue wishlist
+2021-11-20 23:30:57 INFO  Move wishlisted product to cart
+2021-11-20 23:30:57 INFO  Product wishlisted and moved to cart
+2021-11-20 23:30:57 INFO  Closing the browser...
+2021-11-20 23:30:57 INFO  Browser Closed.
+2021-11-20 23:38:12 INFO  Opening the browser
+2021-11-20 23:38:15 INFO  Browser opened
+2021-11-20 23:38:15 INFO  Entering URL in search bar of browser
+2021-11-20 23:38:22 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:38:22 INFO  User Landed to Landing page
+2021-11-20 23:38:22 INFO  Click New from Navigation bar
+2021-11-20 23:38:27 INFO  Select the product
+2021-11-20 23:38:31 INFO  On navigated Product details page
+2021-11-20 23:38:31 INFO  Input the pincode for selected product
+2021-11-20 23:38:31 INFO  Check the COD available for inputed pin code
+2021-11-20 23:38:31 INFO  Check the COD available Message
+2021-11-20 23:38:31 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:38:31 INFO  Closing the browser...
+2021-11-20 23:38:31 INFO  Browser Closed.
+2021-11-20 23:38:31 INFO  Opening the browser
+2021-11-20 23:38:34 INFO  Browser opened
+2021-11-20 23:38:34 INFO  Entering URL in search bar of browser
+2021-11-20 23:38:41 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:38:41 INFO  User Landed to Landing page
+2021-11-20 23:38:41 INFO  Click New from Navigation bar
+2021-11-20 23:38:45 INFO  Select the product
+2021-11-20 23:38:50 INFO  On navigated Product details page
+2021-11-20 23:38:50 INFO  Input the pincode for selected product
+2021-11-20 23:38:50 INFO  Check the COD available for inputed pin code
+2021-11-20 23:38:50 INFO  Check the COD available Message
+2021-11-20 23:38:50 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:38:50 INFO  Closing the browser...
+2021-11-20 23:38:50 INFO  Browser Closed.
+2021-11-20 23:38:52 INFO  Opening the browser
+2021-11-20 23:38:56 INFO  Browser opened
+2021-11-20 23:38:56 INFO  Entering URL in search bar of browser
+2021-11-20 23:39:03 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:39:03 INFO  User Landed to Landing page
+2021-11-20 23:39:03 INFO  Select the product from search results to buy
+2021-11-20 23:39:07 INFO  Search product by entering product related name in search bar
+2021-11-20 23:39:07 INFO  Open the selected product
+2021-11-20 23:39:11 INFO  Add the product to cart
+2021-11-20 23:39:12 INFO  Go to checkout after adding to cart
+2021-11-20 23:39:13 INFO  Cut the popup of Whatsapp
+2021-11-20 23:39:14 INFO  Fill the delivery details with respective fields
+2021-11-20 23:39:25 INFO  Delivery details filled
+2021-11-20 23:39:25 INFO  Click on continue shipping
+2021-11-20 23:39:35 INFO  buying process completed
+2021-11-20 23:39:35 INFO  Closing the browser...
+2021-11-20 23:39:35 INFO  Browser Closed.
+2021-11-20 23:39:37 INFO  Opening the browser
+2021-11-20 23:39:41 INFO  Browser opened
+2021-11-20 23:39:41 INFO  Entering URL in search bar of browser
+2021-11-20 23:40:14 INFO  Opening the browser
+2021-11-20 23:40:18 INFO  Browser opened
+2021-11-20 23:40:18 INFO  Entering URL in search bar of browser
+2021-11-20 23:40:25 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:40:25 INFO  User Landed to Landing page
+2021-11-20 23:40:25 INFO  Click New from Navigation bar
+2021-11-20 23:40:30 INFO  Select the product
+2021-11-20 23:40:34 INFO  On navigated Product details page
+2021-11-20 23:40:34 INFO  Input the pincode for selected product
+2021-11-20 23:40:34 INFO  Check the COD available for inputed pin code
+2021-11-20 23:40:34 INFO  Check the COD available Message
+2021-11-20 23:40:34 ERROR COD Unavailable for inputed pin code
+2021-11-20 23:40:34 INFO  Closing the browser...
+2021-11-20 23:40:34 INFO  Browser Closed.
+2021-11-20 23:40:36 INFO  Opening the browser
+2021-11-20 23:40:40 INFO  Browser opened
+2021-11-20 23:40:40 INFO  Entering URL in search bar of browser
+2021-11-20 23:40:46 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:40:46 INFO  User Landed to Landing page
+2021-11-20 23:40:46 INFO  Select the product from search results to buy
+2021-11-20 23:40:51 INFO  Search product by entering product related name in search bar
+2021-11-20 23:40:51 INFO  Open the selected product
+2021-11-20 23:40:54 INFO  Add the product to cart
+2021-11-20 23:40:55 INFO  Go to checkout after adding to cart
+2021-11-20 23:40:56 INFO  Cut the popup of Whatsapp
+2021-11-20 23:40:57 INFO  Fill the delivery details with respective fields
+2021-11-20 23:41:08 INFO  Delivery details filled
+2021-11-20 23:41:08 INFO  Click on continue shipping
+2021-11-20 23:41:14 INFO  buying process completed
+2021-11-20 23:41:14 INFO  Closing the browser...
+2021-11-20 23:41:14 INFO  Browser Closed.
+2021-11-20 23:41:15 INFO  Opening the browser
+2021-11-20 23:41:19 INFO  Browser opened
+2021-11-20 23:41:19 INFO  Entering URL in search bar of browser
+2021-11-20 23:41:25 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:41:25 INFO  User Landed to Landing page
+2021-11-20 23:41:25 INFO  Click on /'All of it'/ from the navigation bar
+2021-11-20 23:41:31 INFO  Select the Product from Search results
+2021-11-20 23:41:35 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-20 23:41:35 INFO  Validating weather logo is visible or not
+2021-11-20 23:41:36 INFO  Logo is Available on current page
+2021-11-20 23:41:36 INFO  Click on Logo
+2021-11-20 23:41:40 INFO  User navigated back to Homepage from Product Details page
+2021-11-20 23:41:40 INFO  Closing the browser...
+2021-11-20 23:41:40 INFO  Browser Closed.
+2021-11-20 23:41:42 INFO  Opening the browser
+2021-11-20 23:41:46 INFO  Browser opened
+2021-11-20 23:41:46 INFO  Entering URL in search bar of browser
+2021-11-20 23:41:53 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:41:53 INFO  User Landed to Landing page
+2021-11-20 23:41:53 INFO  Select corporate gifts from navigation bar
+2021-11-20 23:41:58 INFO  For will Open for inquiry after navigation to Corporate Gifts
+2021-11-20 23:41:58 INFO  Fill the form with respective fields
+2021-11-20 23:41:58 INFO  Input Name
+2021-11-20 23:41:59 INFO  Input email-id
+2021-11-20 23:42:00 INFO  Input Phone number
+2021-11-20 23:42:00 INFO  Input Message for inquiry
+2021-11-20 23:42:00 INFO  Verify the details and Hit Submit button to put inquiry
+2021-11-20 23:42:04 INFO  Inquiry submitted will reach you soon...!
+2021-11-20 23:42:04 INFO  Closing the browser...
+2021-11-20 23:42:04 INFO  Browser Closed.
+2021-11-20 23:42:06 INFO  Opening the browser
+2021-11-20 23:42:10 INFO  Browser opened
+2021-11-20 23:42:10 INFO  Entering URL in search bar of browser
+2021-11-20 23:42:17 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:42:17 INFO  User Landed to Landing page
+2021-11-20 23:42:17 INFO  Select the gift from navigation bar.
+2021-11-20 23:42:22 INFO  Popup will open for the gift card
+2021-11-20 23:42:22 INFO  Select the amount for gift card
+2021-11-20 23:42:22 INFO  Adding gift card to cart
+2021-11-20 23:42:22 INFO  Closing the browser...
+2021-11-20 23:42:22 INFO  Browser Closed.
+2021-11-20 23:42:24 INFO  Opening the browser
+2021-11-20 23:42:27 INFO  Browser opened
+2021-11-20 23:42:27 INFO  Entering URL in search bar of browser
+2021-11-20 23:42:34 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:42:34 INFO  User Landed to Landing page
+2021-11-20 23:42:34 INFO  Hover mouse on Birthday gifts
+2021-11-20 23:42:35 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-20 23:42:35 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-20 23:42:40 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-20 23:42:40 INFO  Select the Gifting product
+2021-11-20 23:42:45 INFO  Select variety of product
+2021-11-20 23:42:45 INFO  Add selected product to cart
+2021-11-20 23:42:46 INFO  Closing the browser...
+2021-11-20 23:42:46 INFO  Browser Closed.
+2021-11-20 23:42:48 INFO  Opening the browser
+2021-11-20 23:42:52 INFO  Browser opened
+2021-11-20 23:42:52 INFO  Entering URL in search bar of browser
+2021-11-20 23:42:59 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:42:59 INFO  User Landed to Landing page
+2021-11-20 23:42:59 INFO  Select Santa gift From navigation bar
+2021-11-20 23:43:04 INFO  Result for Santa gift will be displayed
+2021-11-20 23:43:09 INFO  Select the product
+2021-11-20 23:43:09 INFO  Increment the quantity of product
+2021-11-20 23:43:09 INFO  Quantity incremented from one to two
+2021-11-20 23:43:09 INFO  Add this product to cart
+2021-11-20 23:43:10 INFO  Product added to cart
+2021-11-20 23:43:10 INFO  Closing the browser...
+2021-11-20 23:43:10 INFO  Browser Closed.
+2021-11-20 23:43:11 INFO  Opening the browser
+2021-11-20 23:43:15 INFO  Browser opened
+2021-11-20 23:43:15 INFO  Entering URL in search bar of browser
+2021-11-20 23:43:22 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:43:22 INFO  User Landed to Landing page
+2021-11-20 23:43:22 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-20 23:43:22 INFO  Inputting /'pocket wa'/ and getting keyword from dropdown suggestions
+2021-11-20 23:43:26 INFO  Navigated to search result page
+2021-11-20 23:43:26 INFO  Selecting the product from search result page
+2021-11-20 23:43:30 INFO  Product Results are displayed according to inputed keys
+2021-11-20 23:43:30 INFO  Product Selected and Navigated to Product details page
+2021-11-20 23:43:30 INFO  Product name matched
+2021-11-20 23:43:30 INFO  Closing the browser...
+2021-11-20 23:43:30 INFO  Browser Closed.
+2021-11-20 23:43:32 INFO  Opening the browser
+2021-11-20 23:43:36 INFO  Browser opened
+2021-11-20 23:43:36 INFO  Entering URL in search bar of browser
+2021-11-20 23:43:42 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:43:42 INFO  User Landed to Landing page
+2021-11-20 23:43:45 INFO  Opening Signin Form
+2021-11-20 23:43:45 INFO  Input email in username field
+2021-11-20 23:43:45 INFO  Input password in password field
+2021-11-20 23:43:46 INFO  Signing Inn with credentials
+2021-11-20 23:43:49 INFO  SignedIn Sucessfull!!
+2021-11-20 23:43:49 INFO  Closing the browser...
+2021-11-20 23:43:49 INFO  Browser Closed.
+2021-11-20 23:43:51 INFO  Opening the browser
+2021-11-20 23:43:54 INFO  Browser opened
+2021-11-20 23:43:54 INFO  Entering URL in search bar of browser
+2021-11-20 23:44:00 INFO  Loading Website of Bigsmall.in
+2021-11-20 23:44:00 INFO  User Landed to Landing page
+2021-11-20 23:44:00 INFO  Click on Top50 from navigation bar
+2021-11-20 23:44:05 INFO  Choose the product from the result
+2021-11-20 23:44:10 INFO  Add product to wishlist
+2021-11-20 23:44:11 INFO  Product wishlisted
+2021-11-20 23:44:11 INFO  Click on wishlist icon from header section
+2021-11-20 23:44:15 INFO  Continue wishlist
+2021-11-20 23:44:16 INFO  Move wishlisted product to cart
+2021-11-20 23:44:16 INFO  Product wishlisted and moved to cart
+2021-11-20 23:44:16 INFO  Closing the browser...
+2021-11-20 23:44:16 INFO  Browser Closed.
+2021-11-21 12:57:43 INFO  Opening the browser
+2021-11-21 12:57:52 INFO  Browser opened
+2021-11-21 12:57:52 INFO  Entering URL in search bar of browser
+2021-11-21 12:57:59 INFO  Loading Website of Bigsmall.in
+2021-11-21 12:57:59 INFO  User Landed to Landing page
+2021-11-21 12:57:59 INFO  Click New from Navigation bar
+2021-11-21 12:58:03 INFO  Select the product
+2021-11-21 12:58:07 INFO  On navigated Product details page
+2021-11-21 12:58:07 INFO  Input the pincode for selected product
+2021-11-21 12:58:08 INFO  Check the COD available for inputed pin code
+2021-11-21 12:58:08 INFO  Check the COD available Message
+2021-11-21 12:58:08 ERROR COD Unavailable for inputed pin code
+2021-11-21 12:58:08 INFO  Closing the browser...
+2021-11-21 12:58:08 INFO  Browser Closed.
+2021-11-21 12:58:10 INFO  Opening the browser
+2021-11-21 12:58:14 INFO  Browser opened
+2021-11-21 12:58:14 INFO  Entering URL in search bar of browser
+2021-11-21 12:58:20 INFO  Loading Website of Bigsmall.in
+2021-11-21 12:58:20 INFO  User Landed to Landing page
+2021-11-21 12:58:20 INFO  Select the product from search results to buy
+2021-11-21 12:58:24 INFO  Search product by entering product related name in search bar
+2021-11-21 12:58:24 INFO  Open the selected product
+2021-11-21 12:58:28 INFO  Add the product to cart
+2021-11-21 12:58:28 INFO  Go to checkout after adding to cart
+2021-11-21 12:58:30 INFO  Cut the popup of Whatsapp
+2021-11-21 12:58:30 INFO  Fill the delivery details with respective fields
+2021-11-21 12:58:41 INFO  Delivery details filled
+2021-11-21 12:58:41 INFO  Click on continue shipping
+2021-11-21 12:58:50 INFO  buying process completed
+2021-11-21 12:58:50 INFO  Closing the browser...
+2021-11-21 12:58:50 INFO  Browser Closed.
+2021-11-21 12:58:51 INFO  Opening the browser
+2021-11-21 12:58:55 INFO  Browser opened
+2021-11-21 12:58:55 INFO  Entering URL in search bar of browser
+2021-11-21 12:59:01 INFO  Loading Website of Bigsmall.in
+2021-11-21 12:59:01 INFO  User Landed to Landing page
+2021-11-21 12:59:01 INFO  Click on /'All of it'/ from the navigation bar
+2021-11-21 12:59:06 INFO  Select the Product from Search results
+2021-11-21 12:59:10 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-21 12:59:10 INFO  Validating weather logo is visible or not
+2021-11-21 12:59:10 INFO  Logo is Available on current page
+2021-11-21 12:59:10 INFO  Click on Logo
+2021-11-21 12:59:14 INFO  User navigated back to Homepage from Product Details page
+2021-11-21 12:59:14 INFO  Closing the browser...
+2021-11-21 12:59:14 INFO  Browser Closed.
+2021-11-21 12:59:16 INFO  Opening the browser
+2021-11-21 12:59:19 INFO  Browser opened
+2021-11-21 12:59:19 INFO  Entering URL in search bar of browser
+2021-11-21 12:59:25 INFO  Loading Website of Bigsmall.in
+2021-11-21 12:59:25 INFO  User Landed to Landing page
+2021-11-21 12:59:25 INFO  Select corporate gifts from navigation bar
+2021-11-21 12:59:30 INFO  Form will Open for inquiry after navigation to Corporate Gifts
+2021-11-21 12:59:30 INFO  Fill the form with respective fields
+2021-11-21 12:59:30 INFO  Input Name
+2021-11-21 12:59:30 INFO  Input email-id
+2021-11-21 12:59:31 INFO  Input Phone number
+2021-11-21 12:59:31 INFO  Input Message for inquiry
+2021-11-21 12:59:31 INFO  Verify the details and Hit Submit button to put inquiry
+2021-11-21 12:59:35 INFO  Inquiry submitted will reach you soon...!
+2021-11-21 12:59:35 INFO  Closing the browser...
+2021-11-21 12:59:35 INFO  Browser Closed.
+2021-11-21 12:59:36 INFO  Opening the browser
+2021-11-21 12:59:39 INFO  Browser opened
+2021-11-21 12:59:39 INFO  Entering URL in search bar of browser
+2021-11-21 12:59:45 INFO  Loading Website of Bigsmall.in
+2021-11-21 12:59:45 INFO  User Landed to Landing page
+2021-11-21 12:59:45 INFO  Select the gift from navigation bar.
+2021-11-21 12:59:49 INFO  Popup will open for the gift card
+2021-11-21 12:59:49 INFO  Select the amount for gift card
+2021-11-21 12:59:50 INFO  Adding gift card to cart
+2021-11-21 12:59:50 INFO  Closing the browser...
+2021-11-21 12:59:50 INFO  Browser Closed.
+2021-11-21 12:59:52 INFO  Opening the browser
+2021-11-21 12:59:54 INFO  Browser opened
+2021-11-21 12:59:54 INFO  Entering URL in search bar of browser
+2021-11-21 13:00:01 INFO  Loading Website of Bigsmall.in
+2021-11-21 13:00:01 INFO  User Landed to Landing page
+2021-11-21 13:00:01 INFO  Hover mouse on Birthday gifts
+2021-11-21 13:00:01 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-21 13:00:01 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-21 13:00:06 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-21 13:00:06 INFO  Select the Gifting product
+2021-11-21 13:00:11 INFO  Select variety of product
+2021-11-21 13:00:11 INFO  Add selected product to cart
+2021-11-21 13:00:11 INFO  Closing the browser...
+2021-11-21 13:00:11 INFO  Browser Closed.
+2021-11-21 13:00:13 INFO  Opening the browser
+2021-11-21 13:00:16 INFO  Browser opened
+2021-11-21 13:00:16 INFO  Entering URL in search bar of browser
+2021-11-21 13:00:23 INFO  Loading Website of Bigsmall.in
+2021-11-21 13:00:23 INFO  User Landed to Landing page
+2021-11-21 13:00:23 INFO  Select Santa gift From navigation bar
+2021-11-21 13:00:28 INFO  Result for Santa gift will be displayed
+2021-11-21 13:00:32 INFO  Select the product
+2021-11-21 13:00:32 INFO  Increment the quantity of product
+2021-11-21 13:00:33 INFO  Quantity incremented from one to two
+2021-11-21 13:00:33 INFO  Add this product to cart
+2021-11-21 13:00:33 INFO  Product added to cart
+2021-11-21 13:00:33 INFO  Closing the browser...
+2021-11-21 13:00:33 INFO  Browser Closed.
+2021-11-21 13:00:34 INFO  Opening the browser
+2021-11-21 13:00:38 INFO  Browser opened
+2021-11-21 13:00:38 INFO  Entering URL in search bar of browser
+2021-11-21 13:00:44 INFO  Loading Website of Bigsmall.in
+2021-11-21 13:00:44 INFO  User Landed to Landing page
+2021-11-21 13:00:44 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-21 13:00:44 INFO  Inputting /'pocket wa'/ and getting keyword from dropdown suggestions
+2021-11-21 13:00:48 INFO  Navigated to search result page
+2021-11-21 13:00:48 INFO  Selecting the product from search result page
+2021-11-21 13:00:52 INFO  Product Results are displayed according to inputed keys
+2021-11-21 13:00:52 INFO  Product Selected and Navigated to Product details page
+2021-11-21 13:00:52 INFO  Product name matched
+2021-11-21 13:00:52 INFO  Closing the browser...
+2021-11-21 13:00:52 INFO  Browser Closed.
+2021-11-21 13:00:54 INFO  Opening the browser
+2021-11-21 13:00:57 INFO  Browser opened
+2021-11-21 13:00:57 INFO  Entering URL in search bar of browser
+2021-11-21 13:01:03 INFO  Loading Website of Bigsmall.in
+2021-11-21 13:01:03 INFO  User Landed to Landing page
+2021-11-21 13:01:06 INFO  Opening Signin Form
+2021-11-21 13:01:06 INFO  Input email in username field
+2021-11-21 13:01:07 INFO  Input password in password field
+2021-11-21 13:01:07 INFO  Signing Inn with credentials
+2021-11-21 13:01:11 INFO  SignedIn Sucessfull!!
+2021-11-21 13:01:11 INFO  Closing the browser...
+2021-11-21 13:01:11 INFO  Browser Closed.
+2021-11-21 13:01:12 INFO  Opening the browser
+2021-11-21 13:01:16 INFO  Browser opened
+2021-11-21 13:01:16 INFO  Entering URL in search bar of browser
+2021-11-21 13:01:22 INFO  Loading Website of Bigsmall.in
+2021-11-21 13:01:22 INFO  User Landed to Landing page
+2021-11-21 13:01:22 INFO  Click on Top50 from navigation bar
+2021-11-21 13:01:27 INFO  Choose the product from the result
+2021-11-21 13:01:33 INFO  Add product to wishlist
+2021-11-21 13:01:34 INFO  Product wishlisted
+2021-11-21 13:01:34 INFO  Click on wishlist icon from header section
+2021-11-21 13:01:38 INFO  Continue wishlist
+2021-11-21 13:01:39 INFO  Move wishlisted product to cart
+2021-11-21 13:01:39 INFO  Product wishlisted and moved to cart
+2021-11-21 13:01:39 INFO  Closing the browser...
+2021-11-21 13:01:39 INFO  Browser Closed.
+2021-11-21 15:50:19 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:50:20 INFO  Opening the browser
+2021-11-21 15:57:53 INFO  Opening the browser
+2021-11-21 15:57:53 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 15:57:54 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:02 INFO  Opening the browser
+2021-11-21 16:08:03 INFO  Opening the browser
+2021-11-21 16:08:03 INFO  Opening the browser
+2021-11-21 16:08:03 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:09:09 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:13:45 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 16:44:44 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:06 INFO  Opening the browser
+2021-11-21 17:02:07 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:13 INFO  Opening the browser
+2021-11-21 17:03:38 INFO  Opening the browser
+2021-11-21 17:03:44 INFO  Browser opened
+2021-11-21 17:03:44 INFO  Entering URL in search bar of browser
+2021-11-21 17:03:49 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:03:49 INFO  User Landed to Landing page
+2021-11-21 17:03:49 INFO  Click New from Navigation bar
+2021-11-21 17:03:53 INFO  Select the product
+2021-11-21 17:03:56 INFO  On navigated Product details page
+2021-11-21 17:03:56 INFO  Input the pincode for selected product
+2021-11-21 17:03:56 INFO  Check the COD available for inputed pin code
+2021-11-21 17:03:56 INFO  Check the COD available Message
+2021-11-21 17:03:56 ERROR COD Unavailable for inputed pin code
+2021-11-21 17:03:56 INFO  Closing the browser...
+2021-11-21 17:03:56 INFO  Browser Closed.
+2021-11-21 17:04:01 INFO  Opening the browser
+2021-11-21 17:04:04 INFO  Browser opened
+2021-11-21 17:04:04 INFO  Entering URL in search bar of browser
+2021-11-21 17:04:09 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:04:09 INFO  User Landed to Landing page
+2021-11-21 17:04:09 INFO  Select the product from search results to buy
+2021-11-21 17:04:12 INFO  Search product by entering product related name in search bar
+2021-11-21 17:04:12 INFO  Open the selected product
+2021-11-21 17:04:16 INFO  Add the product to cart
+2021-11-21 17:04:16 INFO  Go to checkout after adding to cart
+2021-11-21 17:04:17 INFO  Cut the popup of Whatsapp
+2021-11-21 17:04:18 INFO  Fill the delivery details with respective fields
+2021-11-21 17:04:25 INFO  Delivery details filled
+2021-11-21 17:04:25 INFO  Click on continue shipping
+2021-11-21 17:04:34 INFO  buying process completed
+2021-11-21 17:04:34 INFO  Closing the browser...
+2021-11-21 17:04:34 INFO  Browser Closed.
+2021-11-21 17:04:35 INFO  Opening the browser
+2021-11-21 17:04:37 INFO  Browser opened
+2021-11-21 17:04:37 INFO  Entering URL in search bar of browser
+2021-11-21 17:04:42 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:04:42 INFO  User Landed to Landing page
+2021-11-21 17:04:42 INFO  Click on /'All of it'/ from the navigation bar
+2021-11-21 17:04:45 INFO  Select the Product from Search results
+2021-11-21 17:04:49 INFO  Checking the functionality of logo, After clicking logo navigate to Home page
+2021-11-21 17:04:49 INFO  Validating weather logo is visible or not
+2021-11-21 17:04:49 INFO  Logo is Available on current page
+2021-11-21 17:04:49 INFO  Click on Logo
+2021-11-21 17:04:51 INFO  User navigated back to Homepage from Product Details page
+2021-11-21 17:04:51 INFO  Closing the browser...
+2021-11-21 17:04:51 INFO  Browser Closed.
+2021-11-21 17:04:56 INFO  Opening the browser
+2021-11-21 17:04:58 INFO  Browser opened
+2021-11-21 17:04:58 INFO  Entering URL in search bar of browser
+2021-11-21 17:05:03 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:05:03 INFO  User Landed to Landing page
+2021-11-21 17:05:03 INFO  Select corporate gifts from navigation bar
+2021-11-21 17:05:07 INFO  Form will Open for inquiry after navigation to Corporate Gifts
+2021-11-21 17:05:07 INFO  Fill the form with respective fields
+2021-11-21 17:05:07 INFO  Input Name
+2021-11-21 17:05:07 INFO  Input email-id
+2021-11-21 17:05:07 INFO  Input Phone number
+2021-11-21 17:05:07 INFO  Input Message for inquiry
+2021-11-21 17:05:07 INFO  Verify the details and Hit Submit button to put inquiry
+2021-11-21 17:05:10 INFO  Inquiry submitted will reach you soon...!
+2021-11-21 17:05:10 INFO  Closing the browser...
+2021-11-21 17:05:10 INFO  Browser Closed.
+2021-11-21 17:05:11 INFO  Opening the browser
+2021-11-21 17:05:13 INFO  Browser opened
+2021-11-21 17:05:13 INFO  Entering URL in search bar of browser
+2021-11-21 17:05:18 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:05:18 INFO  User Landed to Landing page
+2021-11-21 17:05:18 INFO  Select the gift from navigation bar.
+2021-11-21 17:05:21 INFO  Popup will open for the gift card
+2021-11-21 17:05:21 INFO  Select the amount for gift card
+2021-11-21 17:05:21 INFO  Adding gift card to cart
+2021-11-21 17:05:21 INFO  Closing the browser...
+2021-11-21 17:05:21 INFO  Browser Closed.
+2021-11-21 17:05:25 INFO  Opening the browser
+2021-11-21 17:05:27 INFO  Browser opened
+2021-11-21 17:05:27 INFO  Entering URL in search bar of browser
+2021-11-21 17:05:32 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:05:32 INFO  User Landed to Landing page
+2021-11-21 17:05:32 INFO  Hover mouse on Birthday gifts
+2021-11-21 17:05:33 INFO  Getting Dropdown for Birthday Gifts for
+2021-11-21 17:05:33 INFO  Select /'Return Birthday gift'/ from Suggested dropdown
+2021-11-21 17:05:36 INFO  User will get results for /'Return Birthday gifts'/.
+2021-11-21 17:05:36 INFO  Select the Gifting product
+2021-11-21 17:05:40 INFO  Select variety of product
+2021-11-21 17:05:40 INFO  Add selected product to cart
+2021-11-21 17:05:40 INFO  Closing the browser...
+2021-11-21 17:05:40 INFO  Browser Closed.
+2021-11-21 17:05:45 INFO  Opening the browser
+2021-11-21 17:05:47 INFO  Browser opened
+2021-11-21 17:05:47 INFO  Entering URL in search bar of browser
+2021-11-21 17:05:51 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:05:51 INFO  User Landed to Landing page
+2021-11-21 17:05:51 INFO  Select Santa gift From navigation bar
+2021-11-21 17:05:55 INFO  Result for Santa gift will be displayed
+2021-11-21 17:05:58 INFO  Select the product
+2021-11-21 17:05:58 INFO  Increment the quantity of product
+2021-11-21 17:05:58 INFO  Quantity incremented from one to two
+2021-11-21 17:05:58 INFO  Add this product to cart
+2021-11-21 17:05:58 INFO  Product added to cart
+2021-11-21 17:05:58 INFO  Closing the browser...
+2021-11-21 17:05:58 INFO  Browser Closed.
+2021-11-21 17:06:02 INFO  Opening the browser
+2021-11-21 17:06:05 INFO  Browser opened
+2021-11-21 17:06:05 INFO  Entering URL in search bar of browser
+2021-11-21 17:06:09 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:06:09 INFO  User Landed to Landing page
+2021-11-21 17:06:09 INFO  Search for some product inputting keys from keyboard in search bar
+2021-11-21 17:06:09 INFO  Inputting /'pocket wa'/ and getting keyword from dropdown suggestions
+2021-11-21 17:06:12 INFO  Navigated to search result page
+2021-11-21 17:06:12 INFO  Selecting the product from search result page
+2021-11-21 17:06:15 INFO  Product Results are displayed according to inputed keys
+2021-11-21 17:06:15 INFO  Product Selected and Navigated to Product details page
+2021-11-21 17:06:15 INFO  Product name matched
+2021-11-21 17:06:15 INFO  Closing the browser...
+2021-11-21 17:06:15 INFO  Browser Closed.
+2021-11-21 17:06:20 INFO  Opening the browser
+2021-11-21 17:06:22 INFO  Browser opened
+2021-11-21 17:06:22 INFO  Entering URL in search bar of browser
+2021-11-21 17:06:27 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:06:27 INFO  User Landed to Landing page
+2021-11-21 17:06:29 INFO  Opening Signin Form
+2021-11-21 17:06:29 INFO  Input email in username field
+2021-11-21 17:06:30 INFO  Input password in password field
+2021-11-21 17:06:30 INFO  Signing Inn with credentials
+2021-11-21 17:06:33 INFO  SignedIn Sucessfull!!
+2021-11-21 17:06:33 INFO  Closing the browser...
+2021-11-21 17:06:33 INFO  Browser Closed.
+2021-11-21 17:06:34 INFO  Opening the browser
+2021-11-21 17:06:36 INFO  Browser opened
+2021-11-21 17:06:36 INFO  Entering URL in search bar of browser
+2021-11-21 17:06:40 INFO  Loading Website of Bigsmall.in
+2021-11-21 17:06:40 INFO  User Landed to Landing page
+2021-11-21 17:06:40 INFO  Click on Top50 from navigation bar
+2021-11-21 17:06:43 INFO  Choose the product from the result
+2021-11-21 17:06:49 INFO  Add product to wishlist
+2021-11-21 17:06:49 INFO  Product wishlisted
+2021-11-21 17:06:49 INFO  Click on wishlist icon from header section
+2021-11-21 17:06:52 INFO  Continue wishlist
+2021-11-21 17:06:53 INFO  Move wishlisted product to cart
+2021-11-21 17:06:53 INFO  Product wishlisted and moved to cart
+2021-11-21 17:06:53 INFO  Closing the browser...
+2021-11-21 17:06:53 INFO  Browser Closed.
