@@ -22,7 +22,8 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static ExtentReports report;
 	public static ExtentTest test;
-	//public ExtentReports extent = ExtentReport.extentReportfun();
+
+	// public ExtentReports extent = ExtentReport.extentReportfun();
 	@BeforeTest
 	public WebDriver initializeBrowser() {
 
@@ -45,7 +46,7 @@ public class BaseClass {
 
 			// Maximize browser
 			driver.manage().window().maximize();
-			Thread.sleep(5000l);
+
 		} catch (Exception e) {
 
 			e.printStackTrace();
@@ -53,11 +54,10 @@ public class BaseClass {
 		return driver;
 
 	}
-	
+
 	@AfterTest
-	public void tearDown()
-	{
+	public void tearDown() {
 		driver.quit();
 	}
-	
+
 }

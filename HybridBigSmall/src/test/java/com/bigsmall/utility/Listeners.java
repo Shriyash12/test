@@ -37,7 +37,7 @@ public class Listeners extends BaseClass implements ITestListener {
 
 		test.fail(result.getTestName() + " Test Failed...!",
 				MediaEntityBuilder.createScreenCaptureFromPath(pathSS).build());
-		driver.close();
+
 	}
 
 	public void onTestSuccess(ITestResult result) {
@@ -49,9 +49,6 @@ public class Listeners extends BaseClass implements ITestListener {
 			e1.printStackTrace();
 		}
 
-		test.pass(result.getTestName() + " Test Passes...!",
-				MediaEntityBuilder.createScreenCaptureFromPath(pathSS).build());
-		driver.close();
 	}
 
 	@Override

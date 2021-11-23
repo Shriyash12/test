@@ -6,14 +6,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.bigsmall.testCases.SearchProductTC">
+      <class name="com.bigsmall.testCases.CheckoutAutomation">
         <methods>
-          <include name="searchProduct"/>
+          <include name="checkoutAutomation"/>
           <include name="initializeBrowser"/>
-          <include name="startup"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.bigsmall.testCases.SearchProductTC -->
+      </class> <!-- com.bigsmall.testCases.CheckoutAutomation -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

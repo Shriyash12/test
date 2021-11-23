@@ -1,17 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="20" total="31" passed="10" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-22T11:38:16 IST" name="Suite" finished-at="2021-11-22T11:38:35 IST" duration-ms="19515">
+  <suite started-at="2021-11-23T13:31:13 IST" name="Suite" finished-at="2021-11-23T13:33:36 IST" duration-ms="142759">
     <groups>
     </groups>
-    <test started-at="2021-11-22T11:38:16 IST" name="Test" finished-at="2021-11-22T11:38:35 IST" duration-ms="19515">
+    <test started-at="2021-11-23T13:31:13 IST" name="Test" finished-at="2021-11-23T13:33:36 IST" duration-ms="142759">
+      <class name="com.bigsmall.testCases.ClickLogoTC">
+        <test-method signature="HomePage()[pri:0, instance:com.bigsmall.testCases.ClickLogoTC@116f3d72]" started-at="2021-11-23T13:32:14 IST" name="HomePage" finished-at="2021-11-23T13:32:29 IST" duration-ms="14922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- com.bigsmall.testCases.ClickLogoTC -->
+      <class name="com.bigsmall.testCases.CheckoutAutomation">
+        <test-method signature="checkoutAutomation(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)[pri:0, instance:com.bigsmall.testCases.CheckoutAutomation@e3c961fd]" started-at="2021-11-23T13:31:35 IST" name="checkoutAutomation" data-provider="getDeliveryDetails" finished-at="2021-11-23T13:31:35 IST" duration-ms="129" status="FAIL">
+          <exception class="org.testng.internal.reflect.MethodMatcherException">
+            <message>
+              <![CDATA[
+[public void com.bigsmall.testCases.CheckoutAutomation.checkoutAutomation(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String) throws java.lang.InterruptedException] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: checkoutAutomation([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=2, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=3, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=4, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=5, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=6, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=7, type=int, declaredAnnotations=[]}, Parameter{index=8, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=9, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String) Harry,(java.lang.String) shri12nil@gmail.com,(java.lang.String) Shriyash,(java.lang.String) Nilawar,(java.lang.String) Shaitan gali,(java.lang.String) Khatra mahal,(java.lang.String) California Gramin,(java.lang.String) 22.0,(java.lang.String) 445001.0,(java.lang.String) 9.561165559E9]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.reflect.MethodMatcherException: 
+[public void com.bigsmall.testCases.CheckoutAutomation.checkoutAutomation(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String) throws java.lang.InterruptedException] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: checkoutAutomation([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=2, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=3, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=4, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=5, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=6, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=7, type=int, declaredAnnotations=[]}, Parameter{index=8, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=9, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String) Harry,(java.lang.String) shri12nil@gmail.com,(java.lang.String) Shriyash,(java.lang.String) Nilawar,(java.lang.String) Shaitan gali,(java.lang.String) Khatra mahal,(java.lang.String) California Gramin,(java.lang.String) 22.0,(java.lang.String) 445001.0,(java.lang.String) 9.561165559E9]
+at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:43)
+at org.testng.internal.Parameters.injectParameters(Parameters.java:914)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:34)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at org.testng.TestRunner$$Lambda$124/0x0000000000000000.accept(Unknown Source)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.reflect.MethodMatcherException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutAutomation -->
+      </class> <!-- com.bigsmall.testCases.CheckoutAutomation -->
+      <class name="com.bigsmall.testCases.GiftCardAutomation">
+        <test-method signature="HomePage()[pri:0, instance:com.bigsmall.testCases.GiftCardAutomation@e595323e]" started-at="2021-11-23T13:32:55 IST" name="HomePage" finished-at="2021-11-23T13:33:03 IST" duration-ms="8227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- com.bigsmall.testCases.GiftCardAutomation -->
+      <class name="com.bigsmall.testCases.CorporateGiftsValidation">
+        <test-method signature="corporateGifts(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bigsmall.testCases.CorporateGiftsValidation@438f12d9]" started-at="2021-11-23T13:33:04 IST" name="corporateGifts" data-provider="getData" finished-at="2021-11-23T13:33:12 IST" duration-ms="8344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shriyash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shri12nil@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.561165559E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[This is an excel read enquiry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateGifts -->
+      </class> <!-- com.bigsmall.testCases.CorporateGiftsValidation -->
+      <class name="com.bigsmall.testCases.QtyIncrement">
+        <test-method signature="qtyIncrement()[pri:0, instance:com.bigsmall.testCases.QtyIncrement@66cac06]" started-at="2021-11-23T13:31:48 IST" name="qtyIncrement" finished-at="2021-11-23T13:32:00 IST" duration-ms="12675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qtyIncrement -->
+      </class> <!-- com.bigsmall.testCases.QtyIncrement -->
+      <class name="com.bigsmall.testCases.HoverHeader">
+        <test-method signature="hoverHeader()[pri:0, instance:com.bigsmall.testCases.HoverHeader@6856c20e]" started-at="2021-11-23T13:32:01 IST" name="hoverHeader" finished-at="2021-11-23T13:32:13 IST" duration-ms="11950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverHeader -->
+      </class> <!-- com.bigsmall.testCases.HoverHeader -->
+      <class name="com.bigsmall.testCases.CODAvailablityTC">
+        <test-method signature="pinCodeValidation(java.lang.String)[pri:0, instance:com.bigsmall.testCases.CODAvailablityTC@e38ab4aa]" started-at="2021-11-23T13:32:29 IST" name="pinCodeValidation" data-provider="Pin" finished-at="2021-11-23T13:32:43 IST" duration-ms="13674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[411021.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinCodeValidation -->
+        <test-method signature="pinCodeValidation(java.lang.String)[pri:0, instance:com.bigsmall.testCases.CODAvailablityTC@e38ab4aa]" started-at="2021-11-23T13:32:44 IST" name="pinCodeValidation" data-provider="Pin" finished-at="2021-11-23T13:32:54 IST" duration-ms="10663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinCodeValidation -->
+      </class> <!-- com.bigsmall.testCases.CODAvailablityTC -->
+      <class name="com.bigsmall.testCases.SigninTC">
+        <test-method signature="signIn(java.lang.String,java.lang.String)[pri:0, instance:com.bigsmall.testCases.SigninTC@40c12a91]" started-at="2021-11-23T13:31:36 IST" name="signIn" data-provider="getData" finished-at="2021-11-23T13:31:47 IST" duration-ms="11231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shri12nil@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bigsmall.testCases.SigninTC@40c12a91]" started-at="2021-11-23T13:31:48 IST" name="teardown" finished-at="2021-11-23T13:31:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.bigsmall.testCases.SigninTC -->
       <class name="com.bigsmall.testCases.SearchProductTC">
-        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.bigsmall.testCases.SearchProductTC@d3890c21]" started-at="2021-11-22T11:38:16 IST" name="initializeBrowser" finished-at="2021-11-22T11:38:18 IST" duration-ms="2022" status="PASS">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.bigsmall.testCases.SearchProductTC@407716a8]" started-at="2021-11-23T13:31:13 IST" name="initializeBrowser" finished-at="2021-11-23T13:31:18 IST" duration-ms="4054" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeBrowser -->
-        <test-method signature="searchProduct(java.lang.String)[pri:0, instance:com.bigsmall.testCases.SearchProductTC@d3890c21]" started-at="2021-11-22T11:38:18 IST" name="searchProduct" data-provider="getSearchData" finished-at="2021-11-22T11:38:29 IST" duration-ms="10902" status="PASS">
+        <test-method signature="searchProduct(java.lang.String)[pri:0, instance:com.bigsmall.testCases.SearchProductTC@407716a8]" started-at="2021-11-23T13:31:19 IST" name="searchProduct" data-provider="getSearchData" finished-at="2021-11-23T13:31:34 IST" duration-ms="14972" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +167,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bigsmall.testCases.SearchProductTC@d3890c21]" started-at="2021-11-22T11:38:34 IST" name="tearDown" finished-at="2021-11-22T11:38:35 IST" duration-ms="917" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bigsmall.testCases.SearchProductTC@407716a8]" started-at="2021-11-23T13:33:34 IST" name="tearDown" finished-at="2021-11-23T13:33:36 IST" duration-ms="1805" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.bigsmall.testCases.SearchProductTC -->
+      <class name="com.bigsmall.testCases.AddToWishlist">
+        <test-method signature="addToWishlist()[pri:0, instance:com.bigsmall.testCases.AddToWishlist@27186d9f]" started-at="2021-11-23T13:33:12 IST" name="addToWishlist" finished-at="2021-11-23T13:33:34 IST" duration-ms="21924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishlist -->
+      </class> <!-- com.bigsmall.testCases.AddToWishlist -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
